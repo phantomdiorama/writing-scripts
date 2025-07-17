@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+# proof
+# run weasels, passive and duplicates scripts
+
+if [[ "$1" = "" ]]; then
+    echo "usage: $(basename "$0") <file> ..."
+    exit
+fi
+
+C='\033[0;36m'
+NC='\033[0m'
+
+echo -e "${C}Weasel Words:${NC}"
+weasels "$1"
+echo -e "${C}Passive Voice:${NC}"
+passive "$1"
+echo -e "${C}Duplicate Words:${NC}"
+dups "$1"
+
+exit $?
