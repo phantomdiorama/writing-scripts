@@ -1,6 +1,14 @@
 # writing-scripts
 
-Matt Might's [3 shell scripts: Kill weasel words, avoid the passive, eliminate
-duplicates](https://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates/)
+Various little scripts for editing text:
 
-Reformatted with shellcheck, shfmt and perltidy
+- Backup of Matt Might's [3 shell
+  scripts](https://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates/)
+  Reformatted with shellcheck, shfmt and perltidy
+- Chapsplit
+
+## links
+
+[GNU Diction](https://www.gnu.org/software/diction/)
+
+[Strunk & White](https://www.bartleby.com/lit-hub/the-elements-of-style/)

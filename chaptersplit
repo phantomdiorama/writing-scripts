@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
-# split on lines containing
-# only numbers w/ trailing period
+# Naive Chapter Splitter:
+# Splits on lines ending with
+# a number and a trailing period
 
 if [[ "$1" = "" ]]; then
     echo "usage: $(basename "$0") <file>"
