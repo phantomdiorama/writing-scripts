@@ -5,7 +5,7 @@ Various little scripts for editing text:
 - Backup of Matt Might's [3 shell
   scripts](https://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates/)
   Reformatted with shellcheck, shfmt and perltidy
-- Chapsplit
+- Chaptersplit
 
 ## links
 
