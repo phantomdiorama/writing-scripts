@@ -2,10 +2,11 @@
 
 Various little scripts for editing text:
 
-- Backup of Matt Might's [3 shell
+- backup of Matt Might's [3 shell
   scripts](https://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates/)
-  Reformatted with shellcheck, shfmt and perltidy
-- Chaptersplit
+  (reformatted with shellcheck, shfmt and perltidy)
+- `chaptersplit`
+- `curly` and `straight` for quote conversion
 
 ## links
 
