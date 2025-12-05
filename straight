@@ -1,6 +1,8 @@
 #!/usr/bin/perl -pi~
 # turn curly quotes and apostrophes
 # into straight versions
+use strict;
+use warnings;
 
 # apostrophes
 s/’/'/g;
