@@ -1,4 +1,4 @@
-#!/usr/bin/perl -pi~
+#!/usr/bin/env -S perl -pi~
 # turn curly quotes and apostrophes
 # into straight versions
 use strict;
